@@ -1,16 +1,31 @@
-### Hi there 👋
+## Hi! 👋
 
-<!--
-**cartoon-raccoon/cartoon-raccoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sam, a student/developer living in Singapore. I'm an avid lover of programming, OSS and all things computery.
 
-Here are some ideas to get you started:
+I have a couple of projects on this site, but the one I'm most proud of is Cogsy, a Discogs client that I built in Rust.
+I specialize in backend development and I mostly write CLI apps and web backends. I've also fallen in love with systems programming (as evidenced by my languages of choice).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Projects:
+- Verdigris - an interpreted programming language implemented in Rust
+- Torque - a CLI bittorrent client written in Go
+
+### Planned projects
+- A Rust CLI Spotify client (similar to spotify-tui)
+- A fullstack bugtracker service with C++ GUI and Rust TUI clients, and a Go backend
+- Migrating from KDE to BSPWM (for that r/unixporn street cred, yaknow?)
+
+### Languages I know:
+- Rust
+- Go
+- Python
+
+### Languages I'm learning:
+- C and C++
+- Javascript (Node and React)
+- Haskell
+- Clojure
+
+### Personal Stuff:
+- OS: Arch Linux (btw) with KDE
+- IDE: VSCodium
+- Pronouns: They/Them
