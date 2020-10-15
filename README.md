@@ -7,12 +7,13 @@ I specialize in backend development and I mostly write CLI apps and web backends
 
 ### Current Projects:
 - Verdigris - an interpreted programming language implemented in Rust
+- Oyster - a Bash-like Unix shell written in Rust
 - Torque - a CLI bittorrent client written in Go
 
 ### Planned projects
 - A Rust CLI Spotify client (similar to spotify-tui)
 - A fullstack bugtracker service with C++ GUI and Rust TUI clients, and a Go backend
-- Migrating from KDE to BSPWM (for that r/unixporn street cred, yaknow?)
+- Migrating from KDE to BSPWM/OpenboxWM (for that r/unixporn street cred, yaknow?)
 
 ### Languages I know:
 - Rust
