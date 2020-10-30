@@ -6,11 +6,12 @@ I have a couple of projects on this site, but the one I'm most proud of is Cogsy
 I specialize in backend development and I mostly write CLI apps and web backends. I've also fallen in love with systems programming (as evidenced by my languages of choice).
 
 ### Current Projects:
-- Verdigris - an interpreted programming language implemented in Rust
 - Oyster - a Bash-like Unix shell written in Rust
-- Torque - a CLI bittorrent client written in Go
+- rlox - A Rust implementation of a [Lox](http://craftinginterpreters.com) VM
 
 ### Planned projects
+- Torque - a CLI bittorrent client written in Go
+- Verdigris - an interpreted programming language implemented in Rust
 - A Rust CLI Spotify client (similar to spotify-tui)
 - A fullstack bugtracker service with C++ GUI and Rust TUI clients, and a Go backend
 - Migrating from KDE to BSPWM/OpenboxWM (for that r/unixporn street cred, yaknow?)
