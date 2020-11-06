@@ -2,7 +2,7 @@
 
 I'm Sam, a student/developer living in Singapore. I'm an avid lover of programming, OSS and all things computery.
 
-I mostly write CLI apps. I've also fallen in love with systems programming (as evidenced by my languages of choice).
+I mostly write CLI apps, but I've also fallen in love with systems programming (as evidenced by my languages of choice).
 
 ### Current Projects:
 - Oyster - a Bash-like Unix shell written in Rust
