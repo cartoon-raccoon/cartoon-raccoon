@@ -6,6 +6,7 @@ I mostly write CLI apps, but I've also fallen in love with systems programming (
 
 ### Current Projects:
 - Oyster - a Bash-like Unix shell written in Rust
+- Verdigris - A Rust-inspired interpreted programming language with its own VM
 - rlox - A Rust implementation of a [Lox](http://craftinginterpreters.com) VM
 
 ### Languages I know:
