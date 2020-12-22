@@ -17,8 +17,8 @@ I mostly write CLI apps, but I've also fallen in love with systems programming (
 ### Languages I'm learning:
 - C++
 - Go
+- OCaml
 - Haskell
-- Clojure
 
 ### Personal Stuff:
 - OS: Arch Linux (btw) with KDE
