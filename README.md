@@ -12,8 +12,8 @@ I mostly write CLI apps, but I've also fallen in love with systems programming (
 - Verdigris (Rust) - a register-based language VM with its own assembly code
 
 ### Personal Stuff:
-- OS: Arch Linux (btw) with KDE
-- IDE: VSCodium
+- OS: Void Linux
+- IDE: VSCode
 - Pronouns: They/Them
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=cartoon-raccoon&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
