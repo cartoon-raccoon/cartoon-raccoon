@@ -1,8 +1,4 @@
-## <div align="center">Hi! 👋 I'm Sammy</div>
-
-I'm Sam, a student/developer living in Singapore. I'm an avid lover of programming, OSS and all things computery.
-
-I mostly write CLI apps, but I've also fallen in love with systems programming (as evidenced by the projects I do).
+## <div align="center">Hi! 👋</div>
 
 ### Current Projects:
 - rcwm (Rust) - a small X server window manager using XCB bindings
@@ -14,7 +10,6 @@ I mostly write CLI apps, but I've also fallen in love with systems programming (
 ### Personal Stuff:
 - OS: Arch Linux (btw)
 - IDE: VSCode/Neovim
-- Pronouns: They/Them
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=cartoon-raccoon&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cartoon-raccoon&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
