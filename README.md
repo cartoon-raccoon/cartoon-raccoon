@@ -13,7 +13,8 @@
 - [Hacky Easter 2021](https://github.com/cartoon-raccoon/hackyeaster2021)
 - TISC 2021 (To be written)
 - CMU's Bomb (To be written)
-- Upcoming: SeeTF 2022
+- DefCamp CTF 2022 (Upcoming)
+- SeeTF 2022 (Upcoming)
 
 ### Skills:
 - pwn
