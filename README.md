@@ -8,12 +8,12 @@
 - raccoonOS (C) - A small UNIX-like personal operating system
 - Verdigris (Rust) - a register-based language VM with its own assembly code
 
-### CTF Writeups:
+### Challenge Writeups:
 - [Stack the Flags 2020](https://github.com/cartoon-raccoon/stack-the-flags-2020)
 - [Hacky Easter 2021](https://github.com/cartoon-raccoon/hackyeaster2021)
 - TISC 2021 (To be written)
 - CMU's Bomb (To be written)
-- DefCamp CTF 2022 (Upcoming)
+- [ROP Emporium](https://github.com/cartoon-raccoon/ropemporium)
 - SeeTF 2022 (Upcoming)
 
 ### Skills:
