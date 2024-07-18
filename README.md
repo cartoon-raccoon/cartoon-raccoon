@@ -1,7 +1,7 @@
 # <div align="center">Hi! 👋</div>
 
 ## Current Projects:
-- toaruwm (Rust) - a small X server window manager library
+- toaruwm (Rust) - an X11 window manager and (planned) Wayland compositor library
 - raccoonOS (C) - A small UNIX-like personal operating system
 - iot-suite (Python) - An IoT malware dynamic analysis sandbox
 - cogsy (Rust) - A Discogs collection tracker
