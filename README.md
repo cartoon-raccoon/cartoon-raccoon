@@ -3,11 +3,8 @@
 ## Current Projects:
 - toaruwm (Rust) - an X11 window manager and (planned) Wayland compositor library
 - raccoonOS (C) - A small UNIX-like personal operating system
+- enlightenedc (C++) - An LLVM-powered HolyC compiler and (planned) JIT REPL
 - iot-suite (Python) - An IoT malware dynamic analysis sandbox
-- cogsy (Rust) - A Discogs collection tracker
-- wisteria (C) - an operating system for the Raspberry Pi 4 (inactive)
-- lemur (Go) - A [Monkey](https://interpreterbook.com) implementation
-- verdigris (Rust) - a register-based language VM with its own assembly code
 
 ## Interests:
 
@@ -17,12 +14,10 @@
 - Compilers and Interpreters
 - Type Theory
 - Functional Programming
-- Algebraic Cryptography
 
 ### Mathematics:
 - Algebra (Abstract and Linear)
 - Discrete Mathematics (Graph Theory, Discrete Geometry)
-- Topology and Geometry
 - Formal Language Theory
 
 ## CTFs and Challenges I've Done:
@@ -34,11 +29,6 @@
 - SeeTF 2022
 - UofTCTF 2023 (Challenge Author)
 - Deerhacks CTF (Challenge Author)
-
-## Skills:
-- binexp
-- reveng
-- hardware
 
 ## Languages I Use/Like:
 Rust, C/C++, Python, Haskell
